@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	background-color: black;
+	color: white;
+}
+
+.page_content{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	top: 1%;
+	position: absolute;
+}
+.card{
+	width: 9.5%;
+	padding: 0.25%;
+	float: left;
+	text-align: center;
+}
+.card img{
+	width: 100%;
+	height: 100px;
+}
+
+.display{
+	position: static;
+}
+
+#my_image{
+	width: 75%;
+	position: relative;
+}
